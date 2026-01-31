@@ -71,7 +71,7 @@ I break down complex data topics into simple and grow Business.
  ### 🚀 Stay Connected & Join my Data Community
 If you enjoyed this project and want to keep learning and growing as a data analyst, let’s stay in touch! I regularly share content around SQL, data analytics, portfolio projects, job tips, and more.
 
-💼 LinkedIn: [Amlan Mohanty](https://www.linkedin.com/in/manvendra-singh-shekhawat-4329511a1/)
+💼 LinkedIn: [Manvendra singh Shekhawat ](https://www.linkedin.com/in/manvendra-singh-shekhawat-4329511a1/)
 - Let’s connect professionally and grow your data career
 
 
